@@ -1,7 +1,6 @@
 {
   "name": "ike-rsd",
-  "version": "0.0.3",
-  "author": "thirdweb eng <eng@thirdweb.com>",
+  "version": "0.0.4",
   "license": "Apache-2.0",
   "main": "lib/index.js",
   "types": "dist/index.d.ts",
